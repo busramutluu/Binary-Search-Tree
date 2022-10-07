@@ -17,3 +17,6 @@ Binary Search Tree project
                                              4
                                            
                                          2
+
+Root 7'dir.
+Büyük sayılar Root'un sağında, küçük sayılar ise solunda bulunur.
